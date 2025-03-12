@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const articles = [
    { title: "Football Yesterday", content: "Barcelona defeated Benfica 3-1 in a big performance from the Spanish side." },
-   { title: "Football Yesterday", content: "Bayern defeated Leverkusen 2-0 in a big performance from the German side." },
+   { title: "Football Yesterday", content: "Inter defeated Feynord 2-0 in a big performance from the Italian side." },
 ];
 
 const Search = () => {
